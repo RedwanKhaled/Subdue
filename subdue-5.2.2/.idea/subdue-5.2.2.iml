@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/avl.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/avl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/compress.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/cvtest_main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/discover.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/dot.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/evaluate.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/extend.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gendata.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gm_main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gprune_main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/graph2dot_main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/graphmatch.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/graphops.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/incboundary.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/inccomp.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/incextend.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/incgraphops.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/incutil.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/labels.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mdl_main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mpi.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mpi_main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/sgiso.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/sgiso2_main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/sgiso_main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/subdue.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/subops.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/subs2dot_main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test_main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utility.c" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
